@@ -1,6 +1,3 @@
-Certainly! Here's the updated README file with the "Usage," "Dependencies," and "Contributing" sections included:
-
-```markdown
 # Currency Calculator
 
 This project implements a simple currency calculator application in Java. It provides functionality to convert a given amount between three different currencies: Canadian Dollars (CAD), US Dollars (USD), and Australian Dollars (AUD).
